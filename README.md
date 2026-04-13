@@ -1,5 +1,6 @@
 # 🧬 Bioprocess Digital Twin with Causal AI
 
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-green)] (https://bioprocess-digital-twin-causal-ai-n7tkmwhrjuk6x8eechb3app.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
 ![Causal AI](https://img.shields.io/badge/Causal%20AI-DoWhy-green)
@@ -67,7 +68,7 @@ Simulated batch deviations
 
 📌 Project Structure
 bioprocess-digital-twin/
-│
+│── app/
 ├── data/
 ├── notebooks/
 ├── src/
@@ -80,6 +81,35 @@ bioprocess-digital-twin/
 ✔ Bioprocess Data Science
 ✔ Causal AI for Root Cause Analysis
 ✔ Time-Series + High-Dimensional Data
+
+---
+
+## 🌐 Live Demo (Interactive Digital Twin)
+
+👉 **Try the Streamlit App:**  
+🔗 https://bioprocess-digital-twin-causal-ai-n7tkmwhrjuk6x8eechb3app.streamlit.app/
+
+---
+
+### 🎛️ Features
+
+- Interactive control of:
+  - Temperature  
+  - pH  
+  - Nutrient levels  
+- Real-time prediction of:
+  - Biomass  
+  - Product yield  
+- Dynamic process simulation  
+- Rule-based insights for process stability  
+
+---
+
+### ▶️ Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app/streamlit_app.py
 
 🚀 Future Improvements
 Real bioprocess datasets
