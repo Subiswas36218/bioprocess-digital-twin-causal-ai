@@ -1,6 +1,6 @@
 # 🧬 Bioprocess Digital Twin with Causal AI
 
-[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-green)] (https://bioprocess-digital-twin-causal-ai-n7tkmwhrjuk6x8eechb3app.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-green)] (https://bioprocess-digital-twin-causal-ai-gja2c6jked4ve2upw7keha.streamlit.app/#insights)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
 ![Causal AI](https://img.shields.io/badge/Causal%20AI-DoWhy-green)
@@ -60,6 +60,7 @@ PyTorch
 Pandas, NumPy
 Scikit-learn
 DoWhy
+Streamlit
 
 📈 Results
 Captured process dynamics via ML
@@ -86,8 +87,10 @@ bioprocess-digital-twin/
 
 ## 🌐 Live Demo (Interactive Digital Twin)
 
+![Demo](diagrams/demo.gif)
+
 👉 **Try the Streamlit App:**  
-🔗 https://bioprocess-digital-twin-causal-ai-n7tkmwhrjuk6x8eechb3app.streamlit.app/
+🔗 https://bioprocess-digital-twin-causal-ai-gja2c6jked4ve2upw7keha.streamlit.app/#insights
 
 ---
 
