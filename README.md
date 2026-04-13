@@ -28,6 +28,7 @@ It models relationships between:
 ## 🧠 Architecture
 
 ![Architecture](diagrams/architecture.png)
+![Demo](diagrams/demo.gif)
 
 ---
 
